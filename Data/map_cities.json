@@ -1,72 +1,62 @@
 [
   {
     "city_id": 1,
-    "city": "New New York",
+    "city": "New York",
     "state": "NY",
-    "region": "Northeast",
-    "updated_at":"2026-02-28T23:06:33.718+00:00"
+    "region": "Northeast"
   },
   {
     "city_id": 2,
-    "city": "New Las Vegas",
+    "city": "Los Angelas",
     "state": "CA",
-    "region": "West",
-    "updated_at":"2026-02-28T23:06:33.718+00:00"
+    "region": "West"
   },
   {
     "city_id": 3,
-    "city": "New Chicago",
+    "city": "Chicago",
     "state": "IL",
-    "region": "Midwest",
-    "updated_at":"2026-02-28T23:06:33.718+00:00"
+    "region": "Midwest"
   },
   {
     "city_id": 4,
-    "city": "New Houston",
+    "city": "Houston",
     "state": "TX",
-    "region": "South",
-    "updated_at":"2026-02-28T23:06:33.718+00:00"
+    "region": "South"
   },
   {
     "city_id": 5,
-    "city": "New Phoenix",
+    "city": "Phoenix",
     "state": "AZ",
-    "region": "Southwest",
-    "updated_at":"2026-02-28T23:06:33.718+00:00"
+    "region": "Southwest"
   },
   {
     "city_id": 6,
-    "city": "New Philadelphia",
+    "city": "Philadelphia",
     "state": "PA",
-    "region": "Northeast",
-    "updated_at":"2026-02-28T23:06:33.718+00:00"
+    "region": "Northeast"
   },
   {
     "city_id": 7,
-    "city": "New San Antonio",
+    "city": "San Antonio",
     "state": "TX",
-    "region": "South",
-    "updated_at":"2026-02-28T23:06:33.718+00:00"
+    "region": "South"
   },
   {
     "city_id": 8,
-    "city": "New San Diego",
+    "city": "San Diego",
     "state": "CA",
-    "region": "West",
-    "updated_at":"2026-02-28T23:06:33.718+00:00"
+    "region": "West"
   },
   {
     "city_id": 9,
-    "city": "New Dallas",
+    "city": "Dallas",
     "state": "TX",
-    "region": "South",
-    "updated_at":"2026-02-28T23:06:33.718+00:00"
+    "region": "South"
   },
   {
     "city_id": 10,
-    "city": "New San Jose",
+    "city": "San Jose",
     "state": "CA",
-    "region": "West",
-    "updated_at":"2026-02-28T23:06:33.718+00:00"
+    "region": "West"
   }
 ]
