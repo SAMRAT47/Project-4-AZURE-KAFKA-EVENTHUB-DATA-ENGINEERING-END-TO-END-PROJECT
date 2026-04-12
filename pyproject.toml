@@ -12,7 +12,7 @@ dependencies = [
     "azure-eventhub==5.15.1",
     "certifi==2026.2.25",
     "charset-normalizer==3.4.4",
-    "click==8.3.1",
+    "click>=8.1.8",
     "colorama==0.4.6",
     "dotenv==0.9.9",
     "faker==40.5.1",
@@ -31,4 +31,9 @@ dependencies = [
     "tzdata==2025.3",
     "urllib3==2.6.3",
     "uvicorn==0.41.0",
+]
+
+[tool.uv.workspace]
+members = [
+    "Uber_Data_Engineer_Project",
 ]
