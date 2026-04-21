@@ -7,6 +7,8 @@ End-To-End Data Engineering Project built using Databricks, Azure Data Factory, 
 
 This project demonstrates a production-grade, end-to-end real-time streaming data pipeline for a ride-sharing service like Uber. It utilizes a modern Medallion Architecture to process high-velocity event data from a web application and merge it with historical bulk data to create a comprehensive analytical data model.
 
+![Project Image](https://github.com/anshlambagit/Uber_Data_Engineer_Project/blob/main/thumbnail.png)
+
 🏗️ Architecture Overview
 The pipeline follows the Medallion Architecture (Bronze, Silver, Gold layers) and is entirely metadata-driven.
 
