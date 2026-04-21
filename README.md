@@ -24,7 +24,7 @@ Silver Layer: Uses Spark Declarative Pipelines (SDP) and Jinja Templating to per
 
 Gold Layer: Transforms the OBT into a Star Schema (Fact and Dimension tables), implementing SCD Type 2 for location tracking.
 
-![Project Architecture](https://github.com/anshlambagit/Uber_Data_Engineer_Project/blob/main/architecture.png)
+![Project Architecture](https://github.com/SAMRAT47/Project-4-AZURE-KAFKA-EVENTHUB-DATA-ENGINEERING-END-TO-END-PROJECT/blob/main/architecture.png)
 
 🌟 Project Specialties
 Databricks-Centric: Developed entirely within the Databricks ecosystem using Unity Catalog for governance.
